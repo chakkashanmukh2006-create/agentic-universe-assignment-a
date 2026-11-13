@@ -3,3 +3,10 @@ fastapi>=0.110
 uvicorn>=0.29
 httpx>=0.27
 pytest>=8.0
+
+# Assignment A: Interaction Ledger & Reporting Pipeline
+sqlalchemy>=2.0
+typer>=0.9
+pydantic>=2.0
+cryptography>=42.0
+rich>=13.0
